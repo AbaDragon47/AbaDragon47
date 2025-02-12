@@ -1,9 +1,8 @@
 ![Aba Onumah's Gif](./WelcomeWelcome-ezgif.com-crop.gif)
-## Hi there 👋
+# Hey, its Aba! 👋
 
-<h2>Let's Peer Into Aba Onumah's Mind 🧐</h2>
+Video games 🎮 and milk tea 🧋 are my two true loves, but I’m also always on the hunt for new things to learn and discover 🔎. Currently an undergrad at the University of Texas at Dallas 📚. Some of the stuff you see here is a work-in-progress (aka something I accidentally broke 🤦‍♂️), but hey, there’s some cool stuff too! Check it out! 😅
 
-It all started when my mom met my dad and they fell in love and had me. Hi, I’m Harsha, and my life is kinda crazy 🤪 I am an undergraduate student at the University of Texas at Dallas. 
 <h2>📫 How to reach me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/aba-onumah-63315328b/" target="blank">
@@ -13,10 +12,12 @@ It all started when my mom met my dad and they fell in love and had me. Hi, I’
 
 <h2>💻 I'm Currently Working On</h2>
 
-- Course Work 📚 
+- Course Work 📚 Advanced Algorithms, Data Structure, Unix Systems 
 - Certifications 📜 
 - Projects 👨🏽‍💻 
 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 <!--
 **AbaDragon47/AbaDragon47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
