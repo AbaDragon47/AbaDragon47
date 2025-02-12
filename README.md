@@ -1,3 +1,4 @@
+![Aba Onumah's Gif](./WelcomeWelcome-ezgif.com-crop.gif)
 ## Hi there 👋
 
 <!--
