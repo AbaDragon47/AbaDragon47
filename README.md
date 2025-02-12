@@ -18,8 +18,8 @@ Video games 🎮 and milk tea 🧋 are my two true loves, but I’m also always 
 
 <h2>💻 I'm Currently Working On</h2>
 
-- Course Work 📚 Advanced Algorithms, Data Structure, Unix Systems 
-- Projects 👨🏽‍💻 
+- Course Work 📚 Advanced Algorithms, Data Structures, Unix Systems, Research in AI and Soft Robotics
+- Projects 👨🏽‍💻 Django Web Apps, Research in Unity, ✨ _other top secret stuff_ ✨😈
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
