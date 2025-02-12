@@ -8,12 +8,14 @@ Video games 🎮 and milk tea 🧋 are my two true loves, but I’m also always 
   <a href="https://www.linkedin.com/in/aba-onumah-63315328b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aba-onumah" height="30" width="40" />
   </a>
+  <a href="https://discordapp.com/channels/@me/unicorndragon47/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+  </a>
 </p>
 
 <h2>💻 I'm Currently Working On</h2>
 
 - Course Work 📚 Advanced Algorithms, Data Structure, Unix Systems 
-- Certifications 📜 
 - Projects 👨🏽‍💻 
 
 
@@ -23,6 +25,7 @@ Video games 🎮 and milk tea 🧋 are my two true loves, but I’m also always 
 
 Here are some ideas to get you started:
 
+- Certifications 📜 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
