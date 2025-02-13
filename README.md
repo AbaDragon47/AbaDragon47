@@ -16,9 +16,9 @@ Video games 🎮 and milk tea 🧋 are my two true loves, but I’m also always 
 
 
 
-<h2>💻 I'm Currently Working On</h2>
+<h2>💻 I'm Currently Working On/ Already Done (just reviewing)</h2>
 
-- Course Work 📚 Advanced Algorithms, Data Structures, Unix Systems, Research in AI and Soft Robotics
+- Course Work 📚 Advanced Algorithms, Data Structures,Digital Logic, Unix Systems, Research in AI and Soft Robotics
 - Projects 👨🏽‍💻 Django Web Apps, Research in Unity, ✨ _other top secret stuff_ ✨😈
 
 
