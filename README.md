@@ -8,9 +8,10 @@ Video games 🎮 and milk tea 🧋 are my two true loves, but I’m also always 
   <a href="https://www.linkedin.com/in/aba-onumah-63315328b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aba-onumah" height="30" width="40" />
   </a>
+  <!--
   <a href="https://discord.com/channels/@me/1146265296697569342" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 
