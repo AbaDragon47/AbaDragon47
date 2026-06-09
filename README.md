@@ -1,7 +1,7 @@
 ![Aba Onumah's Gif](./WelcomeWelcome-ezgif.com-crop.gif)
 # Hey, its Aba! 👋
 
-Video games 🎮 and milk tea 🧋 are my two true loves, but I’m also always on the hunt for new things to learn and discover 🔎. Currently an undergrad at the University of Texas at Dallas 📚. Some of the stuff you see here is a work-in-progress (aka something I accidentally broke 🤦‍♂️), but hey, there’s some cool stuff too! Check it out! 😅
+Video games 🎮 and milk tea 🧋 are my two true loves, but I’m also always on the hunt for new things to learn and discover 🔎. Currently a grad student at the University of Texas at Dallas 📚. Some of the stuff you see here is a work-in-progress (aka something I accidentally broke 🤦‍♂️), but hey, there’s some cool stuff too! Check it out! 😅
 
 <h2>📫 How to reach me</h2>
 <p align="left">
@@ -19,7 +19,7 @@ Video games 🎮 and milk tea 🧋 are my two true loves, but I’m also always 
 
 <h2>💻 I'm Currently Working On/ Already Done (just reviewing)</h2>
 
-- Course Work 📚 Advanced Algorithms, Data Structures,Digital Logic, Unix Systems, Research in AI and Soft Robotics
+- Course Work 📚 Research in AI and Soft Robotics, Network Engineering, and Cybersecurity fundamentals
 - Projects 👨🏽‍💻 Django Web Apps, Research in Unity, ✨ _other top secret stuff_ ✨😈
 
 
